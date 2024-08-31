@@ -1,0 +1,15 @@
+table, th, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: rgb(70, 23, 180);
+    background-color: beige;
+}
+
+caption {
+    color: black;
+    margin-bottom: 5px;
+}
+
+.front, .cloud, .market, .data-ana, .data-engine, .dash {
+    background-color: rgb(246, 238, 238)
+}

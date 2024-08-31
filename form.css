@@ -1,0 +1,62 @@
+h1{
+    color: rgb(107, 107, 230);
+    margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color:rgba(23, 23, 19, 0.47);
+}
+
+.apply {
+  margin-left: 20px;
+}
+
+span{
+    margin-left: 35px;
+}
+.details,
+.details2 {
+  display: inline-block;
+}
+
+.details2 {
+  margin-left: 15px;
+}
+
+input {
+  width: 200px;
+  margin-left: 9px;
+  margin-top: 5px;
+  border: none;
+  height: 40px;
+}
+
+main, header {
+    margin-left: 20px;
+    font: 1em sans-serif;
+}
+
+button {
+    width: 455px;
+    height: 30px;
+    color:aliceblue;
+    background-color: rgb(107, 107, 230);
+    border: none;
+    border-radius: 5px;
+}
+
+#channel {
+    width: 435px;
+}
+
+.already {
+    margin-left: 220px;
+}
+
+form {
+    margin-top: 20px;
+}

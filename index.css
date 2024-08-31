@@ -1,0 +1,10 @@
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgba(23, 23, 19, 0.47);}
+
+.apply {
+    margin-left: 20px;
+}
